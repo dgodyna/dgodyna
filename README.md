@@ -1,19 +1,16 @@
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-      
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+### Dmitry Godyna
 
-  </td>
-  <td width="50%">
+Lead software engineer at [Netcracker LLC](https://www.netcracker.com). 7+ years professional experience as software
+developer. Go expert. Specialised in backend development and highload.
 
-<br><p align="center">Everything here is available under the [Unlicense](https://choosealicense.com/licenses/unlicense/)!<br><br>
-  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/andrew-novac)
-  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/5ck1H)
-  [![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/novatorem)
-</p>
-  </td>
-  </table>
+Currently, working on Cloud Billing product as tech lead & team lead (leading team with 11 developers), growing up as an
+architect. We are focused on high availability (up to 0.99999 on some parts) and low latency.
 
-[//]: <> (The `&nbsp;` is to have Aphelion take up more space)
-[//]: <> (Old Visits: https://badges.pufler.dev/visits/novatorem/novatorem?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)
+I use daily: Go, Kubernetes, Postgres, Apache Cassandra, AWS, Make, Bazel.
+
+I have large experience with: Kotlin & Java (Spring, Quarkus), Apache Kafka, Oracle Database.
+
+How to reach me: message me at [telegram](@dmgo1014)
+
+
+[(https://dgodyna.vercel.app/api/spotify)](https://open.spotify.com/user/31wag62x2o2tyg6bgohazxsvxrty
