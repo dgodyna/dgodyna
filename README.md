@@ -12,5 +12,6 @@ I have large experience with: Kotlin & Java (Spring, Quarkus), Apache Kafka, Ora
 
 How to reach me: message me at [telegram](@dmgo1014)
 
+#### Now Playing
 
 [![Spotify](https://dgodyna.vercel.app/api/spotify)](https://open.spotify.com/user/31wag62x2o2tyg6bgohazxsvxrty)
