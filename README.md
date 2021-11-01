@@ -10,7 +10,7 @@ I use daily: Go, Kubernetes, Postgres, Apache Cassandra, AWS, Make, Bazel.
 
 I have large experience with: Kotlin & Java (Spring, Quarkus), Apache Kafka, Kafka streams, Oracle Database.
 
-How to reach me: message me at [telegram](@dmgo1014)
+How to reach me: message me at [telegram](tg://user?id=dmgo1014)
 
 #### Now Playing
 
